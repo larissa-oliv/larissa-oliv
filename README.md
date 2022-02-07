@@ -5,9 +5,9 @@
 
 -->
 <div align="center">
-  <a href="https://github.com/larissa-oliv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larissa-oliv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-oliv&layout=compact&langs_count=7&theme=aura"/>
+ <a href="https://github.com/larissa-oliv">
+ <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=larissa-oliv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-oliv&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <img align="center" alt="Lari-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -26,9 +26,4 @@
   <a href="https://www.instagram.com/larissaoliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lah.rio123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-oliveira-a86116ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ##
-  
-  ![Snake animation](https://github.com/larissa-oliv/larissa-oliv/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
