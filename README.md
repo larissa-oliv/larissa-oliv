@@ -15,15 +15,14 @@
 </p>
 <hr>
 
- <div>
+ <div align="center">
   <a href="https://github.com/larissa-oliv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=larissa-oliv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-oliv&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
  
 <hr>
-<h3> Estudando | Studying </h3>
+<h3>📚 Estudando | Studying </h3>
 <img align="center" alt="Lari-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="Lari-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="Lari-MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -35,5 +34,5 @@
 
  <hr>
 <p>
-<h3> Habilidades / Soft Skills </h3>
+<h3>👩🏼‍💻 Habilidades / Soft Skills </h3>
 <h2>Proatividade | Atenção ao Detalhes | Resiliência | Comunicação interpessoal </h2>
