@@ -1,4 +1,4 @@
-### Olá! Sou Larissa, mas também podes me chamar de Lary (: 
+### Olá! Sou Larissa, mas também podes me chamar de Lary 😊
 <img src="https://cdn.discordapp.com/attachments/932430072747532388/940328513200877638/output_eG7gNd.gif" align="left" alt="gif lary" width="250"/>
  
 - 🌱 Atualmente estou estudando na [Generation Brasil](https://brazil.generation.org), Desenvolvimento Web Full Stack.
@@ -15,11 +15,12 @@
 </p>
 <hr>
 
-<div>
- <a href="https://github.com/larissa-oliv">
- <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=larissa-oliv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- <img height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-oliv&layout=compact&langs_count=7&theme=aura"/>
+ <div>
+  <a href="https://github.com/larissa-oliv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa-oliv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-oliv&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
  
 <hr>
 <h3> Estudando | Studying </h3>
