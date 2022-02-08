@@ -34,5 +34,5 @@
 
  <hr>
 <p>
-<h3>👩🏼‍💻 Habilidades / Soft Skills </h3>
-<h2>Proatividade | Atenção ao Detalhes | Resiliência | Comunicação interpessoal </h2>
+<h3>👩🏼‍💻 Habilidades / Soft Skills </h3><br>
+Proatividade | Atenção ao Detalhes | Resiliência | Comunicação interpessoal
