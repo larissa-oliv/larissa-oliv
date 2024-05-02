@@ -1,6 +1,6 @@
 ### Olá! Sou Larissa, mas também podes me chamar de Lary 😊
 <img src="https://cdn.discordapp.com/attachments/932430072747532388/940328513200877638/output_eG7gNd.gif" align="left" alt="gif lary" width="250"/>
- 
+
 - 👩🏽‍💻 Estagiária em Desenvolvimento de Software.
 - 😺 Mãe do Negresco 
 - 👩🏽 Pronouns: ela/dela/she/her
