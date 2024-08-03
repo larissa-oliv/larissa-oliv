@@ -1,8 +1,5 @@
 ### Olá! Sou Larissa, mas também podes me chamar de Lary 😊
-<img src="https://cdn.discordapp.com/attachments/932430072747532388/940328513200877638/output_eG7gNd.gif" align="left" alt="gif lary" width="250"/>
 - 👩🏽‍💻 Estagiária em Engenharia de Software no Itaú Unibanco
-- 😺 Mãe do Negresco 
-- 👩🏽 Pronouns: ela/dela/she/her
 <hr>
 <hr>
 <p>
@@ -25,6 +22,6 @@
 <img align="center" alt="Lari-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="Lari-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="Lari-MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Lari-Python" height="30" width="80" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
-<img align="center" alt="Lari-Python" height="30" width="80" src="![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
+<img align="center" alt="Lari-Python" height="30" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align="center" alt="Lari-Python" height="30" width="80" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
