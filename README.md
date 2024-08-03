@@ -1,7 +1,6 @@
 ### Olá! Sou Larissa, mas também podes me chamar de Lary 😊
 <img src="https://cdn.discordapp.com/attachments/932430072747532388/940328513200877638/output_eG7gNd.gif" align="left" alt="gif lary" width="250"/>
-
-- 👩🏽‍💻 Estagiária em Desenvolvimento de Software.
+- 👩🏽‍💻 Estagiária em Engenharia de Software no Itaú Unibanco
 - 😺 Mãe do Negresco 
 - 👩🏽 Pronouns: ela/dela/she/her
 <hr>
@@ -22,16 +21,10 @@
 </div>
  
 <hr>
-<h3>📚 Estudando | Studying </h3>
+<h3> Linguagens e Ferramentas </h3>
 <img align="center" alt="Lari-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="Lari-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="Lari-MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="Lari-Js" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="Lari-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Lari-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">     
-<img align="center" alt="Lari-Angular" height="30" width="80" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt="Lari-Python" height="30" width="80" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
+<img align="center" alt="Lari-Python" height="30" width="80" src="![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
 
- <hr>
-<p>
-<h3>👩🏼‍💻 Habilidades / Soft Skills </h3><br>
-Proatividade | Atenção ao Detalhes | Resiliência | Comunicação interpessoal
