@@ -9,7 +9,7 @@
 ## Habilidades 
 **Linguagens de Programação**: [Python, Java] <br>
 **Frameworks**: [Spring Boot] <br>
-**Ferramentas e Tecnologias**: [Git, Docker, AWS Lambda]
+**Ferramentas e Tecnologias**: [Git, Docker, AWS]
 
 ##
  <div align="center">
